@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ResftfullApp", "ResftfullApp\ResftfullApp.csproj", "{F7E97EBD-AC04-41E7-8766-99DBB04A8569}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTestResftfullApp", "UnitTestResftfullApp\UnitTestResftfullApp.csproj", "{B65BBBD6-B8FE-4FC3-8E21-750BC1EF52D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7E97EBD-AC04-41E7-8766-99DBB04A8569}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7E97EBD-AC04-41E7-8766-99DBB04A8569}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7E97EBD-AC04-41E7-8766-99DBB04A8569}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7E97EBD-AC04-41E7-8766-99DBB04A8569}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B65BBBD6-B8FE-4FC3-8E21-750BC1EF52D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B65BBBD6-B8FE-4FC3-8E21-750BC1EF52D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B65BBBD6-B8FE-4FC3-8E21-750BC1EF52D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B65BBBD6-B8FE-4FC3-8E21-750BC1EF52D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
